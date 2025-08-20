@@ -42,3 +42,4 @@ License
 MIT License
 
 
+<img width="1691" height="968" alt="Screenshot from 2025-08-20 13-42-45" src="https://github.com/user-attachments/assets/fc862203-6587-4d2c-8efc-1a3c17696923" />
