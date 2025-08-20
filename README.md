@@ -1,6 +1,6 @@
 # raspberry-pi5-object-detection
 Real-time object detection on Raspberry Pi 5 using OpenCV with shapes detection (rectangle, square, circle).
-# Raspberry Pi 5 Object Detection
+
 
 A real-time object detection project built on **Raspberry Pi 5** using **OpenCV**. This project detects basic shapes like **rectangles, squares, and circles** using a **tablet as a webcam**. AI assistance was used to help write parts of the code, making development faster and more efficient.  
 
